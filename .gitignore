@@ -1,0 +1,8 @@
+# IDEs
+.idea/
+.vscode/
+
+# Compiled stuff
+*.o
+snake_main
+depend
